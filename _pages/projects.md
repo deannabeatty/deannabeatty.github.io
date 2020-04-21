@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /Projects
+permalink: /projects
 author_profile: true
 ---
 Structure and function of marine microbiomes along 32° of latitude in the Northeastern Pacific

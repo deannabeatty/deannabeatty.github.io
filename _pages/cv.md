@@ -46,7 +46,7 @@ Department of Biology<br/>
 **Georgia Institute of Technology**<br/>
 PI: Mark Hay<br/> 
 Doctorate in Philosophy<br/>
-Research Assistant<br/>
+Graduate Research Assistant<br/>
 2012-2018<br/> 
 * Conduct field experiments in Fiji on coral reefs along a series of locally managed marine protected areas and adjacent fished areas
 * Interact with local communities & environmental committees including education on coral reproductive biology, conservation issues, and scientific findings
