@@ -25,7 +25,7 @@ Effects of marine protected areas and overfishing on coral health on Fijian reef
 During my Ph.D, I conducted field experiments along a series of locally managed marine protected areas and adjacent fished areas on the coral coast of Fiji. During this time, I interacted with local communities to educate school kids on coral reproductive biology and coral reef ecology, which I thoroughly enjoyed! I was part of a working group funded through NIH, [International Cooperative Biodiversity Groups Fiji & the Solomon Islands](https://www.fic.nih.gov/Grants/Search/Pages/ICBG-U01TW007401.aspx). You can read more about our group [here](http://www.ace.biosci.gatech.edu/icbg/). My research on coral reef ecology was featured on [Science Daily](https://www.sciencedaily.com/releases/2019/10/191002144239.htm), and video footage can be found [here](https://www.youtube.com/watch?v=Ad9-zN3owyk&feature=youtu.be). My research was selected for the popular science podcast, _This Week in Microbiology_ filmed live and can be viewed here: [TWIM episode 208](https://www.microbe.tv/twim/twim-208/). I'm always looking for ways to improve my science communication and get people excited about marine ecology, so if you're interested in hearing more - please reach out!
 
 _Porites cylindrica_ on a fished reef along the coral coast of Viti Levu, Fiji
-<img src="/images/P_cylindrica_reef.jpg"> <br>
+<img src="/images/P_cylindrica_reef.JPG"> <br>
 
 
 Novel marine bacteria for drug discovery and ecological interactions
