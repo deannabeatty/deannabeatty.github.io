@@ -20,10 +20,15 @@ Undergraduate: <br>
 Dean’s List, The National Society of Collegiate Scholars, Northeastern University Achievement Award, Member of the Biology Club, ESOL tutor
 
 Graduate school:<br/>
-Presidential Scholar, Leadership Fellow, Grand Challenges Facilitator, REU student mentor and trip leader, Microbiome outreach event at Laurel Ridge Elementary School, Science fair judge at Tooman Elementary School
+Presidential Scholar, Leadership Fellow, Grand Challenges Facilitator, REU student mentor and trip leader, Microbiome outreach event at Laurel Ridge Elementary School, Science fair judge at Tooman Elementary School, Honorable mention for NSFGRFP
 
 Postdoctoral:<br/>
-Served on the review committee for the College of Biological Sciences Undergraduate Research Fellowships, reviewer for Environmental Science and Pollution Research Journal, research paper selected for _This Week in Microbiology_ popular science podcast filmed live, available here [TWIM episode 208](https://www.microbe.tv/twim/twim-208/), publication highlighted in [Science Daily](https://www.sciencedaily.com/releases/2019/10/191002144239.htm), [Phys.org](https://phys.org/news/2019-10-impedes-coral-defense-hungry-fish.html), and Georgia Tech's [Center for Microbial Dynamics and Infection](https://microdynamics.gatech.edu/deanna-beatty)
+Served on the review committee for the College of Biological Sciences Undergraduate Research Fellowships, reviewer for Coral Reefs, Environmental Microbiology Reports, and Environmental Science and Pollution, research paper selected for _This Week in Microbiology_ popular science podcast filmed live, available here [TWIM episode 208](https://www.microbe.tv/twim/twim-208/), publication highlighted in [Science Daily](https://www.sciencedaily.com/releases/2019/10/191002144239.htm), [Phys.org](https://phys.org/news/2019-10-impedes-coral-defense-hungry-fish.html), and Georgia Tech's [Center for Microbial Dynamics and Infection](https://microdynamics.gatech.edu/deanna-beatty)
+
+Funding: 2020 - Tomales Bay Watershed Council and the National Park Service, Project title: Using eDNA and aerial (drone) imagery to characterize coastal fish communities in response to health and extent of eelgrass, _Zostera marina_, Award dates: 6/1/2020 to 12/1/2021, Amount awarded: $1979
+
+National Park Service Point Reyes National Seashore, Project title: Using environmental DNA and aerial imagery to characterize coastal fish
+biodiversity in eelgrass (_Zostera marina_) beds in Drakes Estero, Award dates: 6/1/2020 to 12/1/2021, $36,189.80 
 
 Work experience
 ======
@@ -31,7 +36,7 @@ Work experience
 Center for Population Biology Postdoctoral Fellow<br/> 
 Department of Evolution and Ecology<br/>
 2019 - current
-* Investigate drivers of seagrass microbial communities and potential microbial roles in seagrass health and disease across the Northeastern Pacific
+* Investigate drivers of seagrass microbial communities and potential microbial roles in seagrass disease across the Northeastern Pacific
 * Develop in-house pipelines to characterize fishes from environmental DNA
 * Use of bioinformatic tools to relate sequence data to environmental and biotic data
 
@@ -41,7 +46,7 @@ Department of Biology<br/>
 2019
 * Conducted research on coral reef ecology within the French Polynesia Long Term Ecological Network (LTER) 
 * Mentored undergraduate and graduate students in field experimental design, data analysis, and visual presentation of scientific material 
-* Developed assays for rapid screening of coral antibacterial properties in response to warming, algal contact, and corallivory
+* Developed assays for rapid screening of coral antibacterial properties in response to warming, algal contact, and symbioses with fishes
 
 **Georgia Institute of Technology**<br/>
 PI: Mark Hay<br/> 
@@ -76,7 +81,7 @@ Staff Research Associate Level II<br/>
 Skills
 ======
 Data analysis and programming:<br>
-Unix & Perl programming, QIIME for metagenomic analysis, FLASH, Trim Galore!, Image J software, R for mixed effects modelling, PrimerE, SAS statistical analysis software, Python, git for version control<br>
+Unix & Perl programming, QIIME for metagenomic analysis, FLASH, Trim Galore!, Image J software, R for mixed effects modelling, PrimerE, Python, git for version control<br>
 
 Field skills:<br>
 Coast Guard Certified Safe Boater, Scuba Certified, experienced in planting corals, conducting field experiments, and benthic surveys 
