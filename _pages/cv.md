@@ -23,7 +23,7 @@ Graduate school:<br/>
 Presidential Scholar, Leadership Fellow, Grand Challenges Facilitator, REU student mentor and trip leader, Microbiome outreach event at Laurel Ridge Elementary School, Science fair judge at Tooman Elementary School, Honorable mention for NSFGRFP
 
 Postdoctoral:<br/>
-Served on the review committee for the College of Biological Sciences Undergraduate Research Fellowships, reviewer for Coral Reefs, Environmental Microbiology Reports, and Environmental Science and Pollution, research paper selected for _This Week in Microbiology_ popular science podcast filmed live, available here [TWIM episode 208](https://www.microbe.tv/twim/twim-208/), publication highlighted in [Science Daily](https://www.sciencedaily.com/releases/2019/10/191002144239.htm), [Phys.org](https://phys.org/news/2019-10-impedes-coral-defense-hungry-fish.html), and Georgia Tech's [Center for Microbial Dynamics and Infection](https://microdynamics.gatech.edu/deanna-beatty)
+Served on the review committee for the College of Biological Sciences Undergraduate Research Fellowships, reviewer for Coral Reefs, Environmental Microbiology Reports, and Environmental Science and Pollution, Microbial Ecology, research paper selected for _This Week in Microbiology_ popular science podcast filmed live, available here [TWIM episode 208](https://www.microbe.tv/twim/twim-208/), publication highlighted in [Science Daily](https://www.sciencedaily.com/releases/2019/10/191002144239.htm), [Phys.org](https://phys.org/news/2019-10-impedes-coral-defense-hungry-fish.html), and Georgia Tech's [Center for Microbial Dynamics and Infection](https://microdynamics.gatech.edu/deanna-beatty)
 
 Funding: 2020 - Tomales Bay Watershed Council and the National Park Service, Project title: Using eDNA and aerial (drone) imagery to characterize coastal fish communities in response to health and extent of eelgrass, _Zostera marina_, Award dates: 6/1/2020 to 12/1/2021, Amount awarded: $1979
 
@@ -36,9 +36,10 @@ Work experience
 Center for Population Biology Postdoctoral Fellow<br/> 
 Department of Evolution and Ecology<br/>
 2019 - current
-* Investigate drivers of seagrass microbial communities and potential microbial roles in seagrass disease across the Northeastern Pacific
+* Investigate drivers of seagrass microbiome structure across the coastal Northeastern Pacific
 * Develop in-house pipelines to characterize fishes from environmental DNA
-* Use of bioinformatic tools to relate sequence data to environmental and biotic data
+* Use of bioinformatic tools to relate sequence data to environmental and biotic data from field surveys and remote sensing
+* Mentorship and training of graduate students in bioinformatics and science reproducibility tools
 
 **Georgia Institute of Technology**<br/>
 Teasley Endowed Postdoctoral Fellow<br/> 
@@ -81,13 +82,13 @@ Staff Research Associate Level II<br/>
 Skills
 ======
 Data analysis and programming:<br>
-Unix & Perl programming, QIIME for metagenomic analysis, FLASH, Trim Galore!, Image J software, R for mixed effects modelling, PrimerE, Python, git for version control<br>
+R programming, QIIME for 16S gene analysis, FLASH, Trim Galore!, Python, git for version control, R markdown and github for open reproducible science<br>
 
 Field skills:<br>
-Coast Guard Certified Safe Boater, Scuba Certified, experienced in planting corals, conducting field experiments, and benthic surveys 
+Coast Guard Certified Safe Boater, Scuba Certified, field experimentation on coral reefs and seagrass ecosystems, and benthic surveys 
 
 Laboratory skills:<br>
-Adept in sterile technique, microbial isolation, microbial systematics, tissue culture, antibacterial, antifungal, & cytotoxicity bioassays, DNA extraction, PCR, operation of Illumina MiSeq Sequencer, EPMotion robotics
+Adept in sterile technique, microbial isolation, tissue culture, antibacterial, antifungal, & cytotoxicity bioassays, DNA extraction, PCR, operation of Illumina MiSeq Sequencer, EPMotion robotics
 
 Publications
 ======

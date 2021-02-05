@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ocean Change & Conservation"
 title_separator          : "-"
 name                     : &name "Deanna Beatty"
-description              : &description "Marine community ecologist using molecular tools and informatics to study change in our oceans"
+description              : &description "Marine community ecologist using molecular tools, microbiology, and informatics to study change in our oceans"
 url                      : https://deannabeatty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deannabeatty/deannabeatty.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Deanna Beatty"
   avatar           : "profile.png"
-  bio              : "Marine community ecologist using molecular tools and informatics to study change in our oceans"
+  bio              : "Marine community ecologist using molecular tools, microbiology, and informatics to study change in our oceans"
   location         : "Davis, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
