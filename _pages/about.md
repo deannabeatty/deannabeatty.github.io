@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Supporting diversity:
-We all benefit from diversity, whether that’s in the rocky intertidal, on coral reefs, or in the classroom. Diverse communities and ideas propel science forward to solve big problems in new and powerful ways. However, we as scientific researchers need to work to ensure that all students and researchers feel empowered to join in and contribute to scientific research. I am committed to advocating for and supporting individuals from all backgrounds and creeds, including race, religion, nationality, citizenship, gender identity, sexual orientation, and socio-economic background. 
+Diverse communities and ideas propel science forward to solve big problems in new and powerful ways. I will work to ensure that all students and researchers feel empowered to join in and contribute to scientific research. I am committed to advocating for and supporting individuals from all backgrounds and creeds, including race, religion, age, disability, nationality, citizenship, gender identity, sexual orientation, and socio-economic background. 
 
 ## About me:
 I am a marine community ecologist. I'm interesteed in understanding interactions between macroorganisms and microorganisms in our oceans and how these interactions support marine biodiversity. I employ the use of field experimentation, next-generation sequencing, and bioinformatics to understand how complex communities respond to global change stressors.
